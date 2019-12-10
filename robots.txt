@@ -1,0 +1,10 @@
+# www.robotstxt.org
+# for www.cottonprint.ru
+
+# All bot's allow
+User-agent: *
+Disallow:
+
+# Sitemap file
+# https://www.sitemaps.org/protocol.html
+sitemap: https://cottonprint.ru/sitemap.xml
