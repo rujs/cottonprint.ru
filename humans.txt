@@ -1,0 +1,15 @@
+# humanstxt.org
+# The humans responsible & technology colophon
+# for www.cottonprint.ru
+
+# TEAM
+
+    Ruslan G. / Russian Federation -- Webmaster -- github.com/rujs
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, VanillaJS
