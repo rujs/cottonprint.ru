@@ -1,15 +1,21 @@
 # humanstxt.org
-# The humans responsible & technology colophon
-# for www.cottonprint.ru
 
-# TEAM
+## WWW.COTTONPRINT.RU
+	--> Printing on clothing and fabric
+	--> Serigraphy / Sublimation
 
-    Ruslan G. / Russian Federation -- Webmaster -- github.com/rujs
 
-# THANKS
+## OUR TEAM
+	--> Ruslan G.| Russian Federation -- Webmaster -- github.com/rujs
 
-    <name>
 
-# TECHNOLOGY COLOPHON
+## THANKS FOR
+	--> Background photo by Nathaniel Sison on https://unsplash.com/photos/bGjzSW1rDXo
+	--> Icons by <name> on https://thenounproject.com/<link>
+	--> Normalize.css by Nicolas Gallagher on https://github.com/necolas/normalize.css
 
-    CSS3, HTML5, VanillaJS
+
+## WE USE
+	--> HTML5
+	--> CSS3
+	--> VanillaJS
