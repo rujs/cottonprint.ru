@@ -1,21 +1,23 @@
-# humanstxt.org
+# www.CottonPrint.ru
 
-## WWW.COTTONPRINT.RU
-	--> Printing on clothing and fabric
-	--> Serigraphy / Sublimation
++ Printing on clothing and fabric
++ Serigraphy & Sublimation
 
 
 ## OUR TEAM
-	--> Ruslan G.| Russian Federation -- Webmaster -- github.com/rujs
+
+- [Ruslan G.](github.com/rujs) -- Webmaster / Russian Federation
 
 
 ## THANKS FOR
-	--> Background photo by Nathaniel Sison on https://unsplash.com/photos/bGjzSW1rDXo
-	--> Icons by <name> on https://thenounproject.com/<link>
-	--> Normalize.css by Nicolas Gallagher on https://github.com/necolas/normalize.css
+
+- Background photo by [Nathaniel Sison](https://unsplash.com/photos/bGjzSW1rDXo)
+- Icons by [<name>](https://thenounproject.com/<link>)
+- Normalize.css by [Nicolas Gallagher](https://github.com/necolas/normalize.css)
 
 
 ## WE USE
-	--> HTML5
-	--> CSS3
-	--> VanillaJS
+
+- Valid [HTML5](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcottonprint.ru%2F)
+- Valid [CSS3](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcottonprint.ru%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- [Vanilla.JS](http://vanilla-js.com)
