@@ -1,0 +1,19 @@
+{
+    "lang": "ru",
+    "dir": "ltr",
+	"name": "CottonPrint.ru",
+	"short_name": "CottonPrint",
+	"description": "CottonPrint — Печать на одежде и ткани методом шёлкографии и сублимации",
+	"start_url": "https://cottonprint.ru",
+	"display": "browser",
+	"background_color": "#ffffff",
+	"icons": [{
+		"src": "static/img/icons/android192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	}, {
+		"src": "static/img/icons/android512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	}]
+}
