@@ -1,5 +1,4 @@
-# www.robotstxt.org
-# for www.cottonprint.ru
+# WWW.COTTONPRINT.RU
 
 # All bot's allow
 User-agent: *
